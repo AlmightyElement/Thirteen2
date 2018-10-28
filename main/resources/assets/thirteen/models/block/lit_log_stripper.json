@@ -1,0 +1,12 @@
+{
+    "parent": "thirteen:block/orientable",
+    "textures": {
+        "particle": "thirteen:blocks/log_stripper_side",
+        "up": "thirteen:blocks/log_stripper_side",
+        "down": "thirteen:blocks/log_stripper_side",
+        "north": "thirteen:blocks/log_stripper_front_on",
+        "east": "thirteen:blocks/log_stripper_side",
+        "south": "thirteen:blocks/log_stripper_side",
+        "west": "thirteen:blocks/log_stripper_side"
+    }
+}

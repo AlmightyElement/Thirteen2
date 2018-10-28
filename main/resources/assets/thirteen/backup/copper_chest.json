@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        facing=north": { "model": "thirteen:copper_chest" },
+        facing=east": { "model": "thirteen:copper_chest", "y": 90 },
+        facing=south": { "model": "thirteen:copper_chest", "y": 180 },
+        facing=west": { "model": "thirteen:copper_chest", "y": 270 },
+    }
+}

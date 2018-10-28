@@ -1,0 +1,13 @@
+{
+    "variants": 
+    {
+        "burning=false,facing=north": { "model": "thirteen:log_stripper" },
+        "burning=false,facing=east": { "model": "thirteen:log_stripper", "y": 90 },
+        "burning=false,facing=south": { "model": "thirteen:log_stripper", "y": 180 },
+        "burning=false,facing=west": { "model": "thirteen:log_stripper", "y": 270 },
+        "burning=true,facing=north": { "model": "thirteen:lit_log_stripper" },
+        "burning=true,facing=east": { "model": "thirteen:lit_log_stripper", "y": 90 },
+        "burning=true,facing=south": { "model": "thirteen:lit_log_stripper", "y": 180 },
+        "burning=true,facing=west": { "model": "thirteen:lit_log_stripper", "y":270  }
+    }
+}

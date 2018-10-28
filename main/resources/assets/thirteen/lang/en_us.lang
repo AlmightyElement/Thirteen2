@@ -1,0 +1,14 @@
+item.semen.name=Semen
+item.copper_ingot.name=Copper Ingot
+
+tile.copper_block.name=Copper Block
+tile.copper_chest.name=Copper Chest
+tile.log_stripper.name=Log Stripper
+
+
+itemGroup.thirteentab=Thirteen
+
+container.copper_chest=Copper Chest
+
+container.log_stripper=Log Stripper
+tile.log_stripper.name=Log Stripper
